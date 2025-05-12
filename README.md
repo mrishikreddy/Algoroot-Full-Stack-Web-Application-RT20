@@ -2,6 +2,8 @@
 
 A real-time website for AlgoRoot Global, featuring user authentication (sign-in, sign-out, password recovery) and a dashboard displaying user details. The site includes pages for Navigation, About, Services, Products, Partner, Career, Contact, and Portfolio, with a profile icon showing logged-in user information.
 
+[Visit Live Project](https://algoroot-alpha.vercel.app/SignIn)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
