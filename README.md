@@ -11,9 +11,6 @@ A real-time website for AlgoRoot Global, featuring user authentication (sign-in,
 - [File Structure](#file-structure)
 - [Authentication Flow](#authentication-flow)
 - [Dashboard Functionality](#dashboard-functionality)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
@@ -150,25 +147,6 @@ src/
 - **Sidebar**:
   - Toggles via a hamburger menu on mobile.
   - Links to external pages (About, Services, etc.).
-
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/your-feature`).
-3. Commit changes (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-Please ensure your code follows the project's coding style and includes tests where applicable.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For inquiries, reach out to:
-- **Developer**: Rishik Reddy
-- **Portfolio**: [rishik.tech](https://rishik.tech)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
 
 ## Acknowledgements
 - **Firebase**: For secure authentication services.
