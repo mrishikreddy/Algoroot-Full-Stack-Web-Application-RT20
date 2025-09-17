@@ -52,7 +52,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/algoroot-global.git
+   git clone https://github.com/mrishikreddy/Algoroot-Full-Stack-Web-Application-RT20.git
    cd algoroot-global
    ```
 
